@@ -19,7 +19,7 @@ Created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
 
 ## Usage
 
-- The user is able to view a list of Burgers that are on the menu, view a list of Burgers that have been eaten and even add their own Burger to either list mentionned above.
+- After opening the local host port in the browser, the user is able to view a list of Burgers that are on the menu, view a list of Burgers that have been eaten and even add their own Burger to either list.
 
 ### Github-repository
 
@@ -28,7 +28,7 @@ Created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
 
 ### App-screenshots
 
--
+![Eat Da Burger screenshot](eat-da-burger-screenshot.png)
 
 ### Questions
 
