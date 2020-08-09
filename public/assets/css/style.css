@@ -1,7 +1,24 @@
+.jumbotron {
+  background-image: url(https://thumbs.dreamstime.com/b/burger-pattern-hand-drawn-illustration-bright-cartoon-illustration-menu-design-fabric-wallpaper-burger-seamless-pattern-122893630.jpg);
+  color: black;
+  font-size: xx-large;
+}
+.title {
+  background-color: #f8ef5e;
+}
+.tobeeaten {
+  background-color: #93f688;
+}
+.toeat {
+  background-color: #f34f60;
+}
+.toadd {
+  background-color: #f69844;
+}
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  /* background: #cef8d1; */
 }
 
 .label {
@@ -16,4 +33,11 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+input {
+  font-size: x-small;
+}
+footer {
+  background-color: #fbf7b7;
+  max-height: 100px;
 }
