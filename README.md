@@ -26,7 +26,7 @@ Created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
 - Github repository:
   ![Github repository](https://github.com/JessicaPerez1/Eat-Da-Burger.git)
 - Heroku Deployed app link:
-  ![Heroku deplyed app link](https://zeburgereater.herokuapp.com/)
+  ![Heroku deployed app link](https://zeburgereater.herokuapp.com/)
 
 ### App-screenshots
 
