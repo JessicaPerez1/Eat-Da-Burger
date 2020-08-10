@@ -8,7 +8,7 @@ Created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
 
 1. [Installation](#Installation)
 2. [Usage](#Usage)
-3. [Github repository](#Github-repository)
+3. [Github repository and Heroku deployed app link](#Github-repository-Heroku-deployed-link)
 4. [App-screenshots](#App-screenshots)
 5. [Questions](#Questions)
 
@@ -21,10 +21,12 @@ Created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
 
 - After opening the local host port in the browser, the user is able to view a list of Burgers that are on the menu, view a list of Burgers that have been eaten and even add their own Burger to either list.
 
-### Github-repository
+### Github-repository-Heroku-deployed-link
 
 - Github repository:
   ![Github repository](https://github.com/JessicaPerez1/Employee-Tracker.git)
+- Heroku Deployed app link:
+  ![Heroku deplyed app link](Github-repository-Heroku-deployed-link)
 
 ### App-screenshots
 
